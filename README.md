@@ -1,6 +1,8 @@
 # Weather Company Data for IBM Bluemix demo app
 A demo app that uses Weather Company Data for IBM Bluemix.
 
+<a href="https://github.com/MarkusWals/weather-company-data-demo>" # [required]><img src="https://bluemix.net/deploy/button.png" alt="Deploy to Bluemix"></a>
+
 #Overview
 
 The Weather Company Data demo app uses your current location (or a location that you select from the drop-down list) 
